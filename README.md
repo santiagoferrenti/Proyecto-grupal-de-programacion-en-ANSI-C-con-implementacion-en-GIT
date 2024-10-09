@@ -2,8 +2,8 @@
 
 Grupo de Programacion 6to 2da
 Integrantes:
-Lucila Salto
-Lucas Lopez
-Teo Gomez
-Juana Pino
+Lucila Salto,
+Lucas Lopez,
+Teo Gomez,
+Juana Pino y
 Santiago Santos Ferrenti
