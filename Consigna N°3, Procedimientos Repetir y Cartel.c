@@ -1,4 +1,7 @@
 #include <stdio.h>
+// Código del alumno Santiago Santos Ferrenti 
+// link de GIT personal: https://github.com/santiagoferrenti
+// link del GIT grupal (lider Lucas López): https://github.com/
 
 /**
  * Procedimiento que imprime un texto una cantidad específica de veces.
