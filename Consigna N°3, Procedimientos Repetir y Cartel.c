@@ -1,13 +1,9 @@
 #include <stdio.h>
 // Código del alumno Santiago Santos Ferrenti 
 // link de GIT personal: https://github.com/santiagoferrenti
-// link del GIT grupal (lider Lucas López): https://github.com/
+// link del GIT grupal (lider Lucas López): https://github.com/luvvas21
 
-/**
- * Procedimiento que imprime un texto una cantidad específica de veces.
- * @param texto Una cadena de caracteres ( char*) que se imprimirá.
- * @param veces Un número entero que indica cuántas veces se debe repetir la impresión del texto.
- */
+
 void repetir( char* texto, int veces) {
     // Ciclo que repite la impresión del texto introducido en la variable 'texto' la cantidad de veces que se introduzca en la variable 'veces'.
     for (int i = 0; i < veces; i++) {
